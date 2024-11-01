@@ -1,0 +1,13 @@
+<!doctype html>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<html>
+<title>MyWPTask</title>
+<head>
+<body>
+<style>
+<h1 style="color:blue;">A blue heading</h1>
+<p style="color:red;">A red paragraph</p>
+p{
+    font-size:18px;
+}
+</style>
